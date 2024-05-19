@@ -1,0 +1,143 @@
+#banner {
+  width: 60px;
+}
+
+.principal {
+  background-color: #8eec93;
+  padding: 30px;
+
+}
+
+.titulo-principal {
+  padding-left: 20px;
+  font-family: "Archivo Black", sans-serif;
+
+}
+
+
+
+.titulo-centralizado {
+  text-align: center
+}
+
+.titulo-left {
+  text-align: left;
+  color: red;
+}
+
+h3{
+  color: red;
+}
+
+.titulo-left2 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+}
+
+#missao {
+  font-size: 20px
+}
+
+em strong {
+  color: #12cc0b;
+}
+
+.itens {
+  font-style: italic
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  
+  margin-right: 15%;
+}
+.dois{
+  display: inline-block;
+  vertical-align: top;
+  width: 70%;
+  margin-right: 15%;
+}
+}
+
+.imagembeneficios {
+  width: 50%;
+}
+
+.logo {
+  width: 70px;
+  /* Defina o tamanho desejado */
+  top: 20px;
+  /* Distância do topo da página */
+  left: 20px;
+  /* Distância da borda esquerda da página */
+}
+
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.letra {
+  font-family: "Archivo Black", sans-serif;
+}
+
+
+.botoes-container {
+  text-align: center;
+}
+
+.botao {
+  background-color: #45a049;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.botao:hover {
+  background-color: #45a049;
+}
+
+/* Estilo para o rodapé da página */
+footer {
+  background-color: #8eec93;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+
+}
+
+h2{
+  color: red;
+}
+
+.beneficios {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1000px; /* Defina a largura máxima conforme necessário */
+  margin: 0 auto; /* Centraliza o conteúdo */
+}
+
+.texto-lateral {
+  width: 45%; /* Ajuste a largura conforme necessário */
+}
+
+.video {
+  width: 45%; /* Ajuste a largura conforme necessário */
+}
+
